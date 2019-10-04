@@ -2,7 +2,7 @@
 The second attempt at saving my engineering 2 work
 
 ## Intermediate_Arduino
-Contains the following () files
+Contains the following (8) files
 
 ### Hallo_Functions
 The hello functions assignment
@@ -27,3 +27,28 @@ The code to run a potentiometer
 
 ### libraries/LiquidCrystal_I2C
 The libraries for any LCD assignment
+
+## NotSoBasicCAD
+The folder which encompasses the following (7) files
+
+### Cstick..SLDPRT
+The candlestick solidworks file
+
+#### PartSave.SLDPRT
+An early save of the Cstick file
+
+### MinecraftPressurePlate.SLDPRT
+A pressure plate solidworks file
+
+### ShellBoi.SLDPRT
+A shell which is going to be half of a thing
+
+### ShellBoi2.SLDPRT
+The shell that is the other half of the thing
+
+### ShellBoiAssemply.SLDASM
+The assembly which assembles the two shells
+
+### Mjolnir.SLDPRT
+A hammer solidworks file
+
