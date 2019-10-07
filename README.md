@@ -46,7 +46,7 @@ A shell which is going to be half of a thing
 ### ShellBoi2.SLDPRT
 The shell that is the other half of the thing
 
-### ShellBoiAssemply.SLDASM
+### ShellBoiAssembly.SLDASM
 The assembly which assembles the two shells
 
 ### Mjolnir.SLDPRT
