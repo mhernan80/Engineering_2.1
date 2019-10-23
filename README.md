@@ -5,7 +5,7 @@ The second attempt at saving my engineering 2 work
 Contains the following (8) files
 
 ### Hallo_Functions
-The hello functions assignment
+In this assignment, I used an ultrasonic sensor that turned on an LED to a certain brightness based on the distance returned by the sensor.
 
 ### LCD_Backpack
 A piece of code which runs an lcd backpack and prints the time since code started running
