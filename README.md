@@ -17,6 +17,8 @@ A piece of code which runs an lcd backpack and prints the time since code starte
 ### LCD_Backpack2
 The code to run an lcd and have it print out the number of times a button was pressed
 
+<img src="https://github.com/adent11/Intermediate-Arduino/blob/master/FritzingDiagrams/LCD_BackpackScreenshot.PNG?raw=true" width="375" height="250">
+
 ### LCD_Project
 The same as lcd backpack except it prints hello world on the first line
 
