@@ -9,10 +9,10 @@ void setup()
 	pinMode(pin, OUTPUT);
 }
 
+
 void loop()
 {
-	potent = analogRead(A1)/4;
+	potent = analogRead(A1)/4;//makes the potentiometer value lower so that it is easier on the motor
 	delay(50);
-	analogWrite(pin, potent);
+	analogWrite(pin, potent);//prints the potentiometer value to the motor
 }
-

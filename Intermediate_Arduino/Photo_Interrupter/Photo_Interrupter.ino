@@ -5,23 +5,22 @@ volatile byte state = LOW;
 int trigger = 0;
 
 void setup() {
-  // put your setup code here, to run once:
+
   pinMode(led, OUTPUT);
   pinMode(photoPin, INPUT_PULLUP);
   Serial.begin(9600);
-  attachInterrupt(digitalPinToInterrupt(2), on, CHANGE);
-
+  attachInterrupt(digitalPinToInterrupt(2), on, CHANGE);//attaches an interrupt to the 2 pin that runs the on function when activated by a change in the photo interrupter input
+  
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-digitalWrite(led, state);
+digitalWrite(led, state);//turns the LED on or off
 
 
 }
 
 void on(){
-	state = !state;
-	trigger++;
-	Serial.println(trigger);
+	state = !state;//changes the state from on to off or vice versa
+	trigger++;//the number of times the photo interrupter has been triggered
+	Serial.println(trigger);//prints the number of times the photo interrupter has been triggered
 }
