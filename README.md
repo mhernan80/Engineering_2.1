@@ -19,17 +19,18 @@ The code to run an lcd and have it print out the number of times a button was pr
 
 <img src="https://github.com/adent11/Intermediate-Arduino/blob/master/FritzingDiagrams/LCD_BackpackScreenshot.PNG?raw=true" width="375" height="250">
 
-### LCD_Project
-The same as lcd backpack except it prints hello world on the first line
-
 ### MotorControl
 The code to run a motor and have it spin according to a potentiometer value
+
+<img src="https://lh3.googleusercontent.com/IN5ExYHuJ6yX1840cTDWAlnA-GOzanlAXPFhyssoVlsETumfaUG15fk0-SgOQqzRVceMS-7JwWOEvqFiEN7gIjBKqJDRl6ufp8TVo9ox_xCV1O1pVKEOWJ_psT3ExnGEenI-Clv4rKcvMJ3ZtWylHK_EoD-uf3GfuAuJj0MK4LTm9fainqj1iBIEx7zDliOrbzfKGDnxOh3nNV_TwNalT7InqsuKx8VPDMHfhX4RkeWB3GL1g0mChrUR3xoXAD2u8xKBFgRv2x3pMqVxecX2lp0FIBtly5IRrimbmvPFgdpNOHxPPUWv_iAIeyUPX0ki0J0Hjfb86yvymdlwhUS0_MhAs0gI8OF-VIcqImnGW3T28Y05zpbq9nf4A6R0yWG0aBu5pl9AOiQgpZbZK9ZQBopHOmHNOyZn261crXVDGrZkZAwCoYMfS69uoMIHMRFP05QP6R-cfhXgeuzWCmgVLp-K1aW-lDZBpK_rCRQ8PYuPFk5FnL-GCqavNrMajGAIR4SDoVMPEer9NBEcg-yzxJqxIgP8ZSfaojTkc_PAg7ZBsMG1-djjqo1_cJuxzUOwqcIPtXlfPJICpD6LflKOYMxHpzL_1X3misTAtUchL-zPB2KmDWVNeYvMHB_CIzMyIUV4F583C4tDUZAIHOcrk0E9Axc0a6beeAH5hkyo-X_9W4MJ08IsnG1eSoKFZwatT95uRkvIUhtHhOfP13-q6-Ps7jLz7oc58krpkKDLisV__jv1=w727-h969-no" width="350" height="325">
 
 ### Photo_Interrupter
 The code to light up an LED if something passes in front of a photo interrupter
 
 ### Potentiometer1
 The code to run a potentiometer
+
+<img src="https://lh5.googleusercontent.com/oFkuykE0Ibq3-87WijQ7HwNfQIA-m4UV9gneFBjH1E3OCZxnDQQbXO_oYiVznQ620YCvy77caRBEsy3OTJdpm4cvHXBUnMeGswdgcgolGsSTuIwPQhbgZO4NmtuIuxnoDOG9idDL" width="450" height="340">
 
 ### libraries/LiquidCrystal_I2C
 The libraries for any LCD assignment
