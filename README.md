@@ -32,7 +32,7 @@ The code to light up an LED if something passes in front of a photo interrupter
 ### Potentiometer1
 The code to run a potentiometer
 
-<img src="https://lh5.googleusercontent.com/oFkuykE0Ibq3-87WijQ7HwNfQIA-m4UV9gneFBjH1E3OCZxnDQQbXO_oYiVznQ620YCvy77caRBEsy3OTJdpm4cvHXBUnMeGswdgcgolGsSTuIwPQhbgZO4NmtuIuxnoDOG9idDL" width="450" height="340">
+<img src="https://lh5.googleusercontent.com/oFkuykE0Ibq3-87WijQ7HwNfQIA-m4UV9gneFBjH1E3OCZxnDQQbXO_oYiVznQ620YCvy77caRBEsy3OTJdpm4cvHXBUnMeGswdgcgolGsSTuIwPQhbgZO4NmtuIuxnoDOG9idDL" width="450" height="270">
 
 ### libraries/LiquidCrystal_I2C
 The libraries for any LCD assignment
@@ -43,11 +43,12 @@ The folder which encompasses the following (7) files
 ### Cstick..SLDPRT
 The candlestick solidworks file
 
-#### PartSave.SLDPRT
-An early save of the Cstick file
+<img src="https://lh4.googleusercontent.com/S5D2O98et9oL8h1QSFKXpMLi-gtm1quQ89pYKhojj-_jGNZ_neEKOlAOgFFDECrJrgXU56ga7pnKcX2Rzu_xqnp5vcbInBI4YBFPvWMSe37dK1wLjE_x0DsQbGRnxqKC3npBFMxJ" width="450" height="398.9">
 
 ### MinecraftPressurePlate.SLDPRT
 A pressure plate solidworks file
+
+<img src="https://lh3.googleusercontent.com/vNJdQ1sehko6QKPpRwdv1soryXocc0mjqkI9MMB8l8d3qq8FQYVGqiybT9nctiUTeyT2VI0B5hIX4mEyZaa1BFA5H4_Bz4hYtNhnN33cyTbQ5FygEPTgT8pDWgZtUxidd9XUk0eB" width="450" height="428.96">
 
 ### ShellBoi.SLDPRT
 A shell which is going to be half of a thing
@@ -60,4 +61,6 @@ The assembly which assembles the two shells
 
 ### Mjolnir.SLDPRT
 A hammer solidworks file
+
+<img src="https://lh3.googleusercontent.com/Raraol9K-esf9NxGGt9TXX3xcKfc5ubWHZxeUFRzt6YBWF4-CoTfZpfdc7gbL8UXxZP2JZqdhT_Hj0ZKW45urvXutQ0Z_lgUyJ48W391" width="450" height="250.58">
 
