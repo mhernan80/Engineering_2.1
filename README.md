@@ -17,22 +17,22 @@ A piece of code which runs an lcd backpack and prints the time since code starte
 ### LCD_Backpack2
 The code to run an lcd and have it print out the number of times a button was pressed
 
-<img src="https://github.com/adent11/Intermediate-Arduino/blob/master/FritzingDiagrams/LCD_BackpackScreenshot.PNG?raw=true" width="375" height="250">
+<img src="https://github.com/adent11/Intermediate-Arduino/blob/master/FritzingDiagrams/LCD_BackpackScreenshot.PNG?raw=true" width="450">
 
 ### MotorControl
 The code to run a motor and have it spin according to a potentiometer value
 
-<img src="https://lh3.googleusercontent.com/IN5ExYHuJ6yX1840cTDWAlnA-GOzanlAXPFhyssoVlsETumfaUG15fk0-SgOQqzRVceMS-7JwWOEvqFiEN7gIjBKqJDRl6ufp8TVo9ox_xCV1O1pVKEOWJ_psT3ExnGEenI-Clv4rKcvMJ3ZtWylHK_EoD-uf3GfuAuJj0MK4LTm9fainqj1iBIEx7zDliOrbzfKGDnxOh3nNV_TwNalT7InqsuKx8VPDMHfhX4RkeWB3GL1g0mChrUR3xoXAD2u8xKBFgRv2x3pMqVxecX2lp0FIBtly5IRrimbmvPFgdpNOHxPPUWv_iAIeyUPX0ki0J0Hjfb86yvymdlwhUS0_MhAs0gI8OF-VIcqImnGW3T28Y05zpbq9nf4A6R0yWG0aBu5pl9AOiQgpZbZK9ZQBopHOmHNOyZn261crXVDGrZkZAwCoYMfS69uoMIHMRFP05QP6R-cfhXgeuzWCmgVLp-K1aW-lDZBpK_rCRQ8PYuPFk5FnL-GCqavNrMajGAIR4SDoVMPEer9NBEcg-yzxJqxIgP8ZSfaojTkc_PAg7ZBsMG1-djjqo1_cJuxzUOwqcIPtXlfPJICpD6LflKOYMxHpzL_1X3misTAtUchL-zPB2KmDWVNeYvMHB_CIzMyIUV4F583C4tDUZAIHOcrk0E9Axc0a6beeAH5hkyo-X_9W4MJ08IsnG1eSoKFZwatT95uRkvIUhtHhOfP13-q6-Ps7jLz7oc58krpkKDLisV__jv1=w727-h969-no" width="350" height="325">
+<img src="https://lh3.googleusercontent.com/IN5ExYHuJ6yX1840cTDWAlnA-GOzanlAXPFhyssoVlsETumfaUG15fk0-SgOQqzRVceMS-7JwWOEvqFiEN7gIjBKqJDRl6ufp8TVo9ox_xCV1O1pVKEOWJ_psT3ExnGEenI-Clv4rKcvMJ3ZtWylHK_EoD-uf3GfuAuJj0MK4LTm9fainqj1iBIEx7zDliOrbzfKGDnxOh3nNV_TwNalT7InqsuKx8VPDMHfhX4RkeWB3GL1g0mChrUR3xoXAD2u8xKBFgRv2x3pMqVxecX2lp0FIBtly5IRrimbmvPFgdpNOHxPPUWv_iAIeyUPX0ki0J0Hjfb86yvymdlwhUS0_MhAs0gI8OF-VIcqImnGW3T28Y05zpbq9nf4A6R0yWG0aBu5pl9AOiQgpZbZK9ZQBopHOmHNOyZn261crXVDGrZkZAwCoYMfS69uoMIHMRFP05QP6R-cfhXgeuzWCmgVLp-K1aW-lDZBpK_rCRQ8PYuPFk5FnL-GCqavNrMajGAIR4SDoVMPEer9NBEcg-yzxJqxIgP8ZSfaojTkc_PAg7ZBsMG1-djjqo1_cJuxzUOwqcIPtXlfPJICpD6LflKOYMxHpzL_1X3misTAtUchL-zPB2KmDWVNeYvMHB_CIzMyIUV4F583C4tDUZAIHOcrk0E9Axc0a6beeAH5hkyo-X_9W4MJ08IsnG1eSoKFZwatT95uRkvIUhtHhOfP13-q6-Ps7jLz7oc58krpkKDLisV__jv1=w727-h969-no" width="450">
 
 ### Photo_Interrupter
 The code to light up an LED if something passes in front of a photo interrupter
 
-<img src="https://camo.githubusercontent.com/0824ca7705aebf65f790725c03520ece562fda5f/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f613761314e6733384a6f4141736f5353474e5a634c653958764b78354e636559725333796d474a376f415f786f786537764f7a424f6e32377a342d562d4b74325f41786a7a736e39363441476b746e69515249555535444d6f4f637437635442732d32307a384d6757653442496c3449586a453162546c69315f70534f6d5f526f79726241565646" width="450" height="300">
+<img src="https://camo.githubusercontent.com/0824ca7705aebf65f790725c03520ece562fda5f/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f613761314e6733384a6f4141736f5353474e5a634c653958764b78354e636559725333796d474a376f415f786f786537764f7a424f6e32377a342d562d4b74325f41786a7a736e39363441476b746e69515249555535444d6f4f637437635442732d32307a384d6757653442496c3449586a453162546c69315f70534f6d5f526f79726241565646" width="450">
 
 ### Potentiometer1
 The code to run a potentiometer
 
-<img src="https://lh5.googleusercontent.com/oFkuykE0Ibq3-87WijQ7HwNfQIA-m4UV9gneFBjH1E3OCZxnDQQbXO_oYiVznQ620YCvy77caRBEsy3OTJdpm4cvHXBUnMeGswdgcgolGsSTuIwPQhbgZO4NmtuIuxnoDOG9idDL" width="450" height="270">
+<img src="https://lh5.googleusercontent.com/oFkuykE0Ibq3-87WijQ7HwNfQIA-m4UV9gneFBjH1E3OCZxnDQQbXO_oYiVznQ620YCvy77caRBEsy3OTJdpm4cvHXBUnMeGswdgcgolGsSTuIwPQhbgZO4NmtuIuxnoDOG9idDL" width="450">
 
 ### libraries/LiquidCrystal_I2C
 The libraries for any LCD assignment
@@ -53,11 +53,17 @@ A pressure plate solidworks file
 ### ShellBoi.SLDPRT
 A shell which is going to be half of a thing
 
+<img src="https://lh4.googleusercontent.com/xTsrH52TAfMtyxsEjf_7F-KQaAIGWWgLGSqwRcm54jxVuSKOOIqQYbru5mfFBC-wNVUwlwfI1G3EUvg6juyodwuNAc8p28vRJXa4akUn" width="450">
+
 ### ShellBoi2.SLDPRT
 The shell that is the other half of the thing
 
+<img src="https://lh3.googleusercontent.com/JMtA4QHzzwgJxr4vc44mEiihlgXFZDdJRn8D1N0Dd6dk0Cu3dL5h5t2DOblvHkbG1mXzE5cpm6ryrUr_G6OeUsecIW7jijTB3sW_4jjk" width="450">
+
 ### ShellBoiAssembly.SLDASM
 The assembly which assembles the two shells
+
+<img src="https://lh6.googleusercontent.com/sMdYqMgLQ4VZlOU8oYPze32GavsXFoZxdlSIfqUa3FmP0eghAjcbFqK3HezNl8QLDkC0w-PwmrZeoyu7nSgCvuGCJLHHZL4anHcs286NM4s2y4ILzCs-HfaKdaTOO3NGJdsSqV2T" width="450">
 
 ### Mjolnir.SLDPRT
 A hammer solidworks file
