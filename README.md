@@ -62,5 +62,5 @@ The assembly which assembles the two shells
 ### Mjolnir.SLDPRT
 A hammer solidworks file
 
-<img src="https://lh3.googleusercontent.com/Raraol9K-esf9NxGGt9TXX3xcKfc5ubWHZxeUFRzt6YBWF4-CoTfZpfdc7gbL8UXxZP2JZqdhT_Hj0ZKW45urvXutQ0Z_lgUyJ48W391" width="450" height="250.58">
+<img src="https://lh5.googleusercontent.com/ddhe7DAqyb6AZegFKl2rDpoHIeDrGtkO-Txl_JZSn3d8gLUw9TMRmNgWy-64IjyLlLBzSh2y32pap04MFFvi5FcHIyV6vPdZhC1-MDmSEymM33NuwD0U2cEwFX_sdzDYiamoKdcJ" width="450" height="250.58">
 
