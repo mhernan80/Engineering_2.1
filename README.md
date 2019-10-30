@@ -53,7 +53,7 @@ A pressure plate solidworks file
 ### ShellBoi.SLDPRT
 A shell which is going to be half of a thing
 
-<img src="https://lh4.googleusercontent.com/xTsrH52TAfMtyxsEjf_7F-KQaAIGWWgLGSqwRcm54jxVuSKOOIqQYbru5mfFBC-wNVUwlwfI1G3EUvg6juyodwuNAc8p28vRJXa4akUn" width="450">
+<img src="https://lh4.googleusercontent.com/D2DrXWyl1gD0JvESEdl79RNZrXvRDkjLEfA9Zsz2EzgRRxd5OnoN12P_e7RTB_b-b7jx0V6LKxsLivpOWuVYiIJQ0WNdQ2lL36gGM0jo6KGZnF9eLe9Zk579La54jUUGC01zjNe2" width="450">
 
 ### ShellBoi2.SLDPRT
 The shell that is the other half of the thing
@@ -63,7 +63,7 @@ The shell that is the other half of the thing
 ### ShellBoiAssembly.SLDASM
 The assembly which assembles the two shells
 
-<img src="https://lh6.googleusercontent.com/sMdYqMgLQ4VZlOU8oYPze32GavsXFoZxdlSIfqUa3FmP0eghAjcbFqK3HezNl8QLDkC0w-PwmrZeoyu7nSgCvuGCJLHHZL4anHcs286NM4s2y4ILzCs-HfaKdaTOO3NGJdsSqV2T" width="450">
+<img src="https://lh3.googleusercontent.com/NHuW-HMbpDebp4PbNCiWukezMfZD0yV3ftj28wADbQsouSVuc619fTOzcUWWZXZGY2JO-m-mT6LJVby-UQmuJdR_ayDAGjgqF0mbs_myB5PDlMtY4sdRxysJRZAo3o9xhO7HYl-c" width="450">
 
 ### Mjolnir.SLDPRT
 A hammer solidworks file
