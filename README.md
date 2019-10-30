@@ -58,12 +58,12 @@ A shell which is going to be half of a thing
 ### ShellBoi2.SLDPRT
 The shell that is the other half of the thing
 
-<img src="https://lh3.googleusercontent.com/JMtA4QHzzwgJxr4vc44mEiihlgXFZDdJRn8D1N0Dd6dk0Cu3dL5h5t2DOblvHkbG1mXzE5cpm6ryrUr_G6OeUsecIW7jijTB3sW_4jjk" width="450">
+<img src="https://lh3.googleusercontent.com/NHuW-HMbpDebp4PbNCiWukezMfZD0yV3ftj28wADbQsouSVuc619fTOzcUWWZXZGY2JO-m-mT6LJVby-UQmuJdR_ayDAGjgqF0mbs_myB5PDlMtY4sdRxysJRZAo3o9xhO7HYl-c" width="450">
 
 ### ShellBoiAssembly.SLDASM
 The assembly which assembles the two shells
 
-<img src="https://lh3.googleusercontent.com/NHuW-HMbpDebp4PbNCiWukezMfZD0yV3ftj28wADbQsouSVuc619fTOzcUWWZXZGY2JO-m-mT6LJVby-UQmuJdR_ayDAGjgqF0mbs_myB5PDlMtY4sdRxysJRZAo3o9xhO7HYl-c" width="450">
+<img src="https://lh5.googleusercontent.com/JzI9JKZRgrVAyPMOZU-tp8K9WrMHGqT4-oYdqFbZwiT2km-czYFWxyi6-73O9KVenZ6PMcCaCFRkNhnKPX657xOR2xzssh8k3wPxIhov" width="450">
 
 ### Mjolnir.SLDPRT
 A hammer solidworks file
