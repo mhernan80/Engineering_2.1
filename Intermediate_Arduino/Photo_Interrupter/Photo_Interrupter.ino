@@ -1,6 +1,6 @@
 
-int led = 13;
-int photoPin = 2;
+int led = 8;
+int photoPin = 3;
 volatile byte state = LOW;
 int trigger = 0;
 
@@ -9,7 +9,7 @@ void setup() {
   pinMode(led, OUTPUT);
   pinMode(photoPin, INPUT_PULLUP);
   Serial.begin(9600);
-  attachInterrupt(digitalPinToInterrupt(2), on, CHANGE);//attaches an interrupt to the 2 pin that runs the on function when activated by a change in the photo interrupter input
+  attachInterrupt(digitalPinToInterrupt(photoPin), on, CHANGE);//attaches an interrupt to the 2 pin that runs the on function when activated by a change in the photo interrupter input
   
 }
 
