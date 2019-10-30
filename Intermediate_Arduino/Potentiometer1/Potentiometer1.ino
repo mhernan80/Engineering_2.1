@@ -15,7 +15,7 @@ void setup()
 
 void loop()
 {
-	int LED = analogRead(A1);
+	int LED = analogRead(A3);
 	analogWrite(6, LED/5);//divides the potentiometer value by five so the LED can use the value
 	Serial.println(LED);
 	delay(50);
