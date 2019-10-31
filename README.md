@@ -53,9 +53,6 @@ The code to run an ultrasonic sensor using functions from the New Ping library
 
 Code: https://github.com/mhernan80/Engineering_2.1/blob/master/Intermediate_Arduino/New_Ping/New_Ping.ino
 
-### libraries/LiquidCrystal_I2C
-The libraries for any LCD assignment
-
 ## NotSoBasicCAD
 The folder which encompasses the following (7) files
 
