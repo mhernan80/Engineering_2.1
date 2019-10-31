@@ -12,14 +12,14 @@ In this assignment, I used an ultrasonic sensor that turned a continuous rotatio
 Code: https://github.com/mhernan80/Engineering_2.1/blob/master/Intermediate_Arduino/Hallo_Functions/Hallo_Functions.ino
 
 ### LCD_Backpack
-I used an LCD backpack in this assignment to print out the number of seconds since the code started running. This assignment was my first time using an LCD backpack, and I consider it to be a huge improvement on the massive amounts of wiring I had to do when I wasn't using it. While this assignment wasn't particularly exciting, it was very quick and it taught me new things about LCDs.
+I used an LCD backpack in this assignment to print out the number of seconds since the code started running. This assignment was my first time using an LCD backpack, and I consider it to be a huge improvement on the massive amounts of wiring I had to do when I wasn't using it. While this assignment wasn't very exciting, it was extremely quick and it taught me new things about LCDs.
 
 <img src="https://raw.githubusercontent.com/adent11/Intermediate-Arduino/master/FritzingDiagrams/Hello_LCDScreenshot.PNG" width="450" height="362.30">
 
 Code: https://github.com/mhernan80/Engineering_2.1/blob/master/Intermediate_Arduino/LCD_Backpack/LCD_Backpack.ino
 
 ### LCD_ButtonCounter
-The code to run an lcd and have it print out the number of times a button was pressed
+The LCD Button Counter assignment was an assignment in which I used a button and an LCD to print the number of times the button was pressed to the LCD. This assignment was very fun, as it forced us to find a way to code a button the way most people think when they think of buttons.
 
 <img src="https://github.com/adent11/Intermediate-Arduino/blob/master/FritzingDiagrams/LCD_BackpackScreenshot.PNG?raw=true" width="450">
 
