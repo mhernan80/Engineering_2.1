@@ -34,6 +34,7 @@ Code: https://github.com/mhernan80/Engineering_2.1/blob/master/Intermediate_Ardu
 
 ### Photo_Interrupter
 For the photo interrupter project, I used a photo interrupter and an LED to power the LED whenever the photo interrupter dectected something. It was rather easy wiring, but the coding took a while to work, as we had to learn how to use an interrupt command. Overall a good project.
+
 <img src="https://camo.githubusercontent.com/0824ca7705aebf65f790725c03520ece562fda5f/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f613761314e6733384a6f4141736f5353474e5a634c653958764b78354e636559725333796d474a376f415f786f786537764f7a424f6e32377a342d562d4b74325f41786a7a736e39363441476b746e69515249555535444d6f4f637437635442732d32307a384d6757653442496c3449586a453162546c69315f70534f6d5f526f79726241565646" width="450">
 
 Code: https://github.com/mhernan80/Engineering_2.1/blob/master/Intermediate_Arduino/Photo_Interrupter/Photo_Interrupter.ino
