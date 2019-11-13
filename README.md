@@ -2,7 +2,7 @@
 Attempt #2 at creating an Engineering 2 notebook
 
 ## Intermediate_Arduino
-Contains the following (7) files.
+Contains the following (7) files. Huge thanks to <a href="https://github.com/adent11">adent11</a> for the fritzing diagrams.
 
 ### LCD_Backpack
 I used an LCD backpack in this assignment to print out the number of seconds since the code started running. This assignment was my first time using an LCD backpack, and I consider it to be a huge improvement on the massive amounts of wiring I had to do when I wasn't using it. While this assignment wasn't very exciting, it was extremely quick and it taught me new things about LCDs.
