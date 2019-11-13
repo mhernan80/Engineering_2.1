@@ -93,6 +93,11 @@ Code: https://github.com/mhernan80/Engineering_2.1/blob/master/Intermediate_Ardu
 This folder contains the following (4) files.
 
 ### Scoperino + 2
-This project was an assembly of four different parts: a pin and three boxes of different sizes. We assembled these parts in solidworks in such a way that when you moved the pin, the boxes moved in a telescoping fashion. Thus, the name Scoperino. Scoperino was actually an assembly which combined the "Telescope" boxes and the pin(The file for the pin is named pin as a display of my immense creativity).
+This project was an assembly of four different parts: a pin and three boxes of different sizes. We assembled these parts in solidworks in such a way that when you moved the pin, the boxes moved in a telescoping fashion. Thus, the name Scoperino. Scoperino was actually an assembly which combined the "Telescope" boxes and the pin(The file for the pin is named pin as a display of my immense creativity). This was a great way to quickly teach several different types of mates.
 
 <img src="https://lh6.googleusercontent.com/DPKq314IKuvyMJQ0aSHkeIGIZWTh_aBI6yYVpxGucbaF3uq0nmbeGyKX-z0Lcp4ueSg_4dN2H4PTAI7idXgUTITY3_IfvfTPEdoRpY4FMUkKM2Kv2hXkWP083PHG0QRh5X8vaZdA" width="450">
+
+### Shpool
+This was the assignment in which we created a spool. We learned how to do one very important thing; create design tables. These design tables allow me to strategically adjust the size of an object without recreating the piece.
+
+<img src="https://lh6.googleusercontent.com/aDY-57gY38cyygFXJAQEmGfL1Bs1JtOM5rrO0IoqAX7HEzOzSlRFgmJi1TQeLssMzAtTugSHPRKllLWkf65JikkvcDvLn1x_ejgtF45I" width="250"><img src="https://lh5.googleusercontent.com/-CgJy_Jkjvb4J6_8hDwOxg7HH1CHkPxNhMeGZzjkbgd2o1DRDSVdT6smKxse8bnXrHqQQIv7etVjkY2ztQsjW5KWKOxAetnMlMITFHR9" width="250"><img src="https://lh6.googleusercontent.com/HGcxsrlOOmkVZStwTpK1SxkznWJXGV_hhLliTCJiXQTZtXyeVHfQM_lTL0EAtaGHMKB1CPMipKD1xczjnG1cj-94cdMjb3Q2dXlkUvtg" width="250">
