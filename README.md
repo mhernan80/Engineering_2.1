@@ -2,14 +2,7 @@
 Attempt #2 at creating an Engineering 2 notebook
 
 ## Intermediate_Arduino
-Contains the following (9) files
-
-### Hallo_Functions
-In this assignment, I used an ultrasonic sensor that turned a continuous rotation servo a certain amount forwards or backwards based on the distance returned. This assignment taught me how to use ultrasonic sensors and how to use functions, both of which are very useful skills to have. 
-
-<img src="https://lh3.googleusercontent.com/aV5iMf5qfeBJxVEwDgIox82_adkVSs6_MP-9C8dWsBLrzh64BSivPZha71JCWlpizSw5xT4TIaro02FZJyiKbNBrVjKfWyv-9af3QoclWFxhlBbJ7_LS-GW6LOpdT0R34uzviYtp8OipFCpBSkHb7FyBgtsvzpFhpNs6IGPIILpp-np8aRgl4l0tfP3TKDor_BM92dxibf6Znu-G3JEn1guKF1LSsxPiGQbZ5fp_6hp5Jf7VZFrt_NjfD2jfJyfN5tHtNx8VzP2kmb4Ej6WWjBYvuyf-xPFHQDUnO_SRdAFehxk8zkBIYZRorYg4D67m91Zia_8i5dEx95bdM0J2x-4GJb0quDJ9bso22iNQA-eVsrs0XXa0-ySSrPLtssHOkgI-ANP_LYeBWd4uTIkRF9OdBi-ZXnOdfDl-br_V1SpgD3QwLoFzgZNzq2OrihEJfiYKBlZmz1ebiMELbZUYPQYUHt3jMeGllgTXMXUsjUB3uwCfL_ylNRLi4Z9NXZ2wtBfLfoJ0cLotBuT19690fGVPQhHcMQ0pTvdhL4r3Wg1EtHnVsE42IeaSWkxeJKf8qFXU0Am1HWIWQ7tu8ZLGePlG8QUhyQRYOmriq6_WhnCUkeb-nU5rCrSQRskMYUhZDFxqh-5D_1pWaLwb2-pKHntv_b0972NQmpKPztHFVyJt13i0NGOV9wvdWMrZkRLC8FzhJvTd-wwE4eazN-SCVUpQK1V5jsF1NrekLcnM_OC4IXbJ=w1292-h969-no" width="450" height="337.5">
-
-Code: https://github.com/mhernan80/Engineering_2.1/blob/master/Intermediate_Arduino/Hallo_Functions/Hallo_Functions.ino
+Contains the following (7) files. Huge thanks to <a href="https://github.com/adent11">adent11</a> for the fritzing diagrams.
 
 ### LCD_Backpack
 I used an LCD backpack in this assignment to print out the number of seconds since the code started running. This assignment was my first time using an LCD backpack, and I consider it to be a huge improvement on the massive amounts of wiring I had to do when I wasn't using it. While this assignment wasn't very exciting, it was extremely quick and it taught me new things about LCDs.
@@ -46,15 +39,8 @@ The potentiometer project was a project in which I used a potentiometer to power
 
 Code: https://github.com/mhernan80/Engineering_2.1/blob/master/Intermediate_Arduino/Potentiometer1/Potentiometer1.ino
 
-### NewPing
-In the New Ping assignment I ran an ultrasonic sensor using functions from the New Ping library. This assignment was very fun as it was fast and a huge improvement on the amount of work I did in Hello Functions.
-
-<img src="https://github.com/adent11/Not-So-Basic-Arduino/blob/master/FritzingDiagrams/NewPing()Screenshot.PNG?raw=true" width="450">
-
-Code: https://github.com/mhernan80/Engineering_2.1/blob/master/Intermediate_Arduino/New_Ping/New_Ping.ino
-
 ## NotSoBasicCAD
-The folder which encompasses the following (7) files
+The folder which encompasses the following (7) files.
 
 ### Cstick..SLDPRT
 The candlestick solidworks assignment was about what you would assusme: a candlestick. I learned how to use sweeps in this assignment.
@@ -86,3 +72,15 @@ For this assignment I created a hammer(If you don't know why it's called Mjolnir
 
 <img src="https://lh5.googleusercontent.com/ddhe7DAqyb6AZegFKl2rDpoHIeDrGtkO-Txl_JZSn3d8gLUw9TMRmNgWy-64IjyLlLBzSh2y32pap04MFFvi5FcHIyV6vPdZhC1-MDmSEymM33NuwD0U2cEwFX_sdzDYiamoKdcJ" width="450" height="250.58">
 
+## Intermediate CAD
+This folder contains the following (4) files.
+
+### Scoperino + 2
+This project was an assembly of four different parts: a pin and three boxes of different sizes. We assembled these parts in solidworks in such a way that when you moved the pin, the boxes moved in a telescoping fashion. Thus, the name Scoperino. Scoperino was actually an assembly which combined the "Telescope" boxes and the pin(The file for the pin is named pin as a display of my immense creativity). This was a great way to quickly teach several different types of mates.
+
+<img src="https://lh6.googleusercontent.com/DPKq314IKuvyMJQ0aSHkeIGIZWTh_aBI6yYVpxGucbaF3uq0nmbeGyKX-z0Lcp4ueSg_4dN2H4PTAI7idXgUTITY3_IfvfTPEdoRpY4FMUkKM2Kv2hXkWP083PHG0QRh5X8vaZdA" width="450">
+
+### Shpool
+This was the assignment in which we created a spool. We learned how to do one very important thing; create design tables. These design tables allow me to strategically adjust the size of an object without recreating the piece.
+
+<img src="https://lh6.googleusercontent.com/_-b6sXAvoHWFqKR93dfarZ4BzHNPXb9JLC7wlslet4eCRUO37zTiwYmZXIdFr9s8WbmIOFZ-GaK9cJ3AyyCO9mSJmGsrWO-N5IQ4tUfL" width="250"><img src="https://lh5.googleusercontent.com/BfzQ_ASI5QXWc9jcA6ltw_o9_32UCS7d8bfOdkUsxIVP6vYJaH7itn9Q_QqsSwfWqhhd-QbIiJzz3EaJfzP47JmndG-GpPbakiWbBIRq" width="250"><img src="https://lh5.googleusercontent.com/XLIeqRDVlLnN_eVf3BmIW8ovcxqwZxn49J6O6gDTq6lpJpIYNeOLwXkC4QdEYKww5eap2kxvrR_MVrvrPSbUSDK86isTJWSTH4rX8mhz" width="250">
